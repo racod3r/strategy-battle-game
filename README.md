@@ -15,16 +15,18 @@ This is a C++ console-based battle game I developed as part of my programming po
 - Randomized boss behavior makes each game different
 - The users aim is for the boss to reach 0hp
 
-## 🛠 Features
-
+## Features
 - Dynamic difficulty scaling (boss stats change by level)
 - Turn economy using "reserves" for strategic advantage
 - Randomized AI for boss actions
 - Replay loop with retry and exit options
 - Well-commented and structured code
 
-## How to Run
+## 🎥 Demo
+Watch a short demo of the game here:  
+[https://youtu.be/M-jqU8nuHzw](https://youtu.be/M-jqU8nuHzw)
 
+## How to Run
 1. Make sure you have a C++ compiler installed (e.g., g++, Visual Studio, Code::Blocks).
 2. Compile the code:
    ```bash
@@ -40,5 +42,4 @@ This is a C++ console-based battle game I developed as part of my programming po
 - The game is **fully playable**, though not yet extended into a graphical or object-oriented format. Future improvements could include refactoring into classes, GUI support, or multiplayer logic.
 
 ## Status
-
 This project is **functionally complete** and ready to demo, but I consider it a work in progress — I’m continuing to improve the structure and possibly expand on the gameplay in the future.
