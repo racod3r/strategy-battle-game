@@ -42,4 +42,4 @@ Watch a short demo of the game here:
 - The game is **fully playable**, though not yet extended into a graphical or object-oriented format. Future improvements could include refactoring into classes, GUI support, or multiplayer logic.
 
 ## Status
-This project is **functionally complete** and ready to demo, but I consider it a work in progress — I’m continuing to improve the structure and possibly expand on the gameplay in the future.
+This project is **functionally complete** and ready to demo, but I hope to possibly expand on the gameplay in the future.
