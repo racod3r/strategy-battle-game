@@ -7,11 +7,11 @@ This is a C++ console-based battle game I developed as part of my programming po
 - **Player vs. Boss turn-based combat**
 - Choose from 3 difficulty levels: Easy, Medium, Hard
 - Player and boss take turns with a mix of:
-  - Attacking (A)
-  - Defending (D)
-  - Reserving (extra turns) (R)
+  - Attacking 
+  - Defending
+  - Reserving (reserving extra turns)
 - Each round progresses with dynamic turn scaling (Max 4)
-- Reserves allow the user to reach a maximumm of 8 turns
+- Reserves allow the user to reach a maximumm of 8 turns 
 - Randomized boss behavior makes each game different
 - The users aim is for the boss to reach 0hp
 
