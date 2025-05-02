@@ -22,7 +22,7 @@ This is a C++ console-based battle game I developed as part of my programming po
 - Replay loop with retry and exit options
 - Well-commented and structured code
 
-## 🎥 Demo
+## Demo
 Watch a short demo of the game here:  
 [https://youtu.be/M-jqU8nuHzw](https://youtu.be/M-jqU8nuHzw)
 
